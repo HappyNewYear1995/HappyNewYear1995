@@ -51,8 +51,8 @@ Senior Tech Management Expert with 10+ years of internet industry experience. Fu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HappyNewYear1995&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappyNewYear1995&layout=compact&theme=radical" alt="Top Langs" width="400">
+   <img src="./assets/github-stats.svg" alt="GitHub Stats" width="400">
+  <img src="./assets/top-langs.svg" alt="Top Langs" width="400">
 </p>
 
 <p align="center">
